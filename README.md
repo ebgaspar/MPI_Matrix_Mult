@@ -1,2 +1,2 @@
-# MPI-Matrix_Mult
+# MPI Matrix Mult
 Matrix multiplication with MPI
